@@ -1,10 +1,10 @@
 {
-  "url": "https://d.qinglion.com/Yuejuan/2.7.18/win32/YuejuanSetup-x64-2.7.18.exe",
-  "name": "2.7.18",
-  "version": "dfb250e1213d2284306f552df4230653ce2f8ae0",
-  "productVersion": "2.7.18",
-  "hash": "aaadb7bdea76316b7401da2882b5badd05e2485b",
-  "timestamp": "1756658127864",
-  "sha256hash": "40e9d31aae75689b61c644487af79f0ec2fff70981da00f735a9a49ec18c6439",
-  "oss_url": "https://d.qinglion.com/Yuejuan/2.7.18/win32/YuejuanSetup-x64-2.7.18.exe"
+  "url": "https://d.qinglion.com/Yuejuan/2.7.19/win32/YuejuanSetup-x64-2.7.19.exe",
+  "name": "2.7.19",
+  "version": "0edf664171c05380270dce8cec9f86525533e77b",
+  "productVersion": "2.7.19",
+  "hash": "6dae9dfd0aeb7eedaff8644cc9773e606a89de3c",
+  "timestamp": "1756685296318",
+  "sha256hash": "9ef45fcbfb8d495bda66184310e19e630dedcae844d04b66e1dfae37d227e660",
+  "oss_url": "https://d.qinglion.com/Yuejuan/2.7.19/win32/YuejuanSetup-x64-2.7.19.exe"
 }
