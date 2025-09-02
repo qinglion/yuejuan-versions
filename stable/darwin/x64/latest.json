@@ -1,10 +1,10 @@
 {
-  "url": "https://d.qinglion.com/Yuejuan/2.7.22/darwin/Yuejuan-2.7.22-x64.zip",
-  "name": "2.7.22",
-  "version": "4c1216aad39d398bb5232c77346ca2f44692869e",
-  "productVersion": "2.7.22",
-  "hash": "541e0848de1ad070440846dee00b9b49a827c9d3",
-  "timestamp": "1756784120198",
-  "sha256hash": "d1a0104ce925394cbe49dd6e9c6d8d568c1e6e7f0961c944423ff2c0b71598ce",
-  "oss_url": "https://d.qinglion.com/Yuejuan/2.7.22/darwin/Yuejuan-2.7.22-x64.zip"
+  "url": "https://d.qinglion.com/Yuejuan/2.7.25/darwin/QingLion-2.7.25-x64.zip",
+  "name": "2.7.25",
+  "version": "d19c66e770ee3c5f49b2f729d6f41f44ad9ebd00",
+  "productVersion": "2.7.25",
+  "hash": "f3783b360cc54b94a2537501249f6b0c8e114bf6",
+  "timestamp": "1756801848871",
+  "sha256hash": "dd1b62f0b25e98256df2ac811663020b6952c591192c91a74d12a1ba5358832b",
+  "oss_url": "https://d.qinglion.com/Yuejuan/2.7.25/darwin/QingLion-2.7.25-x64.zip"
 }
