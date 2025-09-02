@@ -1,10 +1,10 @@
 {
-  "url": "https://d.qinglion.com/Yuejuan/2.7.21/darwin/Yuejuan-2.7.21-x64.zip",
-  "name": "2.7.21",
-  "version": "02faac677b20903615e30b5783eca2f33776f617",
-  "productVersion": "2.7.21",
-  "hash": "bed63c20557d5971c55a49896d3569076708d67c",
-  "timestamp": "1756717038610",
-  "sha256hash": "d59067ef131fe30c69b0782471728f2692941ee192f4f2b828a7defe116d84a3",
-  "oss_url": "https://d.qinglion.com/Yuejuan/2.7.21/darwin/Yuejuan-2.7.21-x64.zip"
+  "url": "https://d.qinglion.com/Yuejuan/2.7.22/darwin/Yuejuan-2.7.22-x64.zip",
+  "name": "2.7.22",
+  "version": "4c1216aad39d398bb5232c77346ca2f44692869e",
+  "productVersion": "2.7.22",
+  "hash": "541e0848de1ad070440846dee00b9b49a827c9d3",
+  "timestamp": "1756784120198",
+  "sha256hash": "d1a0104ce925394cbe49dd6e9c6d8d568c1e6e7f0961c944423ff2c0b71598ce",
+  "oss_url": "https://d.qinglion.com/Yuejuan/2.7.22/darwin/Yuejuan-2.7.22-x64.zip"
 }
