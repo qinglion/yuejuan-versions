@@ -1,10 +1,10 @@
 {
-  "url": "https://d.qinglion.com/Yuejuan/stable/3.0.17/darwin/QingLion-3.0.17-x64.zip",
-  "name": "3.0.17",
-  "version": "eceb8358a1f414ca1a511962203bd2fe25dfb76b",
-  "productVersion": "3.0.17",
-  "hash": "f8534e595150d178bd7a303d44e30cd3489bf4b6",
-  "timestamp": "1757575120843",
-  "sha256hash": "b6a60e54eedea7ebf1c49296590900e3a816df1165b05067c9d3a861182b1ee8",
-  "oss_url": "https://d.qinglion.com/Yuejuan/stable/3.0.17/darwin/QingLion-3.0.17-x64.zip"
+  "url": "https://d.qinglion.com/Yuejuan/stable/3.0.27/darwin/QingLion-3.0.27-x64.zip",
+  "name": "3.0.27",
+  "version": "e16ca9d3cbfddd8a79f616f0fcf54745a4168472",
+  "productVersion": "3.0.27",
+  "hash": "62b36099cd1ac935d90c888efce49e4bdf65d7ba",
+  "timestamp": "1759122885248",
+  "sha256hash": "6bae8b15c6f2e9efb389eedfe892b44529705e47fb41abac48fb970ba6580871",
+  "oss_url": "https://d.qinglion.com/Yuejuan/stable/3.0.27/darwin/QingLion-3.0.27-x64.zip"
 }
