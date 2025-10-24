@@ -1,10 +1,10 @@
 {
-  "url": "https://d.qinglion.com/Yuejuan/insider/3.0.35/darwin/QingLionBeta-3.0.35-x64.zip",
-  "name": "3.0.35",
-  "version": "7b8e7f30dfaffaaad7e141f5fb41418c561b708b",
-  "productVersion": "3.0.35",
-  "hash": "e4675be7c40d0d3abe2d7065c3fba62c0815c58e",
-  "timestamp": "1761186280782",
-  "sha256hash": "28b5813a2f22b545994ea6a2524e5131484cc4abef644926692644beee54a4da",
-  "oss_url": "https://d.qinglion.com/Yuejuan/insider/3.0.35/darwin/QingLionBeta-3.0.35-x64.zip"
+  "url": "https://d.qinglion.com/Yuejuan/insider/3.0.36/darwin/QingLionBeta-3.0.36-x64-feat-cards.zip",
+  "name": "3.0.36",
+  "version": "ecb19a8c580824b336657f42cc4d0d71c03028d3",
+  "productVersion": "3.0.36",
+  "hash": "f2bc9bdc3987e10fe316a1bac33b545bb0607be1",
+  "timestamp": "1761291995789",
+  "sha256hash": "a011ecc75d02059accdb0a1f806c69ec2261648f95bc7aa2236ed2ece03f7067",
+  "oss_url": "https://d.qinglion.com/Yuejuan/insider/3.0.36/darwin/QingLionBeta-3.0.36-x64-feat-cards.zip"
 }
