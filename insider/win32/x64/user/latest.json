@@ -1,10 +1,10 @@
 {
-  "url": "https://d.qinglion.com/Yuejuan/insider/3.0.35/win32/QingLionBetaSetup-x64-3.0.35.exe",
-  "name": "3.0.35",
-  "version": "7b8e7f30dfaffaaad7e141f5fb41418c561b708b",
-  "productVersion": "3.0.35",
-  "hash": "806832df944fd1293cb1943c1738242c53f17dfb",
-  "timestamp": "1761136619910",
-  "sha256hash": "2d361a5a229f885e6691a8630c2a12c0e8c5a6845d70846efd7193ebf2383ca0",
-  "oss_url": "https://d.qinglion.com/Yuejuan/insider/3.0.35/win32/QingLionBetaSetup-x64-3.0.35.exe"
+  "url": "https://d.qinglion.com/Yuejuan/insider/3.0.36/win32/QingLionBetaSetup-x64-3.0.36.exe",
+  "name": "3.0.36",
+  "version": "ecb19a8c580824b336657f42cc4d0d71c03028d3",
+  "productVersion": "3.0.36",
+  "hash": "b4269c896a24c58211480ab709b15ac843ada53b",
+  "timestamp": "1765945701902",
+  "sha256hash": "a5340bed1c4deeec61862a49079474d59d4c3e6d947d6da2eb5b1ab13fc443bb",
+  "oss_url": "https://d.qinglion.com/Yuejuan/insider/3.0.36/win32/QingLionBetaSetup-x64-3.0.36.exe"
 }
